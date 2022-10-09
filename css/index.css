@@ -1,0 +1,103 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(201, 9, 9);
+    color: white;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+a{
+    align-content: center;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 10px;
+    border-radius: 100px;    
+    padding: 15px;  
+    background-color: rgba(216, 212, 205, 0.526);
+   
+}
+
+.web{
+    display: flex;
+           
+}
+
+input{
+    margin-left: 10px;
+   
+}
+
+ul{
+    margin-left: 350px;
+    list-style: none;
+   
+}
+
+
+.uno{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.seccionUno{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(201, 9, 9);
+    padding: 100px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+.primera{
+    margin-top: -90px;
+    margin-bottom: 100px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
+
+.logo{
+    display: flex;
+   flex-direction: row;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+input{
+    margin-right: -7px;
+   
+}
+

@@ -1,0 +1,62 @@
+
+body{
+    background-image: url(../img/background.jpg);
+}
+
+
+
+.video{
+   width: 350px;
+   height: 700px;
+   text-align: center;
+   margin: 10% auto;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: lighter;
+   font-size: smaller;
+}
+
+iframe{
+    margin-top: -20px;
+    text-align: center;
+    height: 700px;
+    border-radius: 30px;
+   
+   
+}
+       
+
+
+.title{
+    color: white;
+    margin-top: -700px;
+    padding-top: 5px;
+}
+
+.subtitle{
+    display: block;
+    color: white;
+    margin-top: -10px;
+    
+    
+}
+
+.pie{
+    margin-top: 100px;
+}
+
+.play{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: -150px;
+    padding-top: -200px;
+    background-color: rgb(249, 108, 221);
+}
+
+.iframe{
+    box-sizing: border-box;
+    border-width: 20px;
+    border-color: rgb(202, 56, 56);
+    background-image: linear-gradient();
+    
+}
